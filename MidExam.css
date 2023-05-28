@@ -1,0 +1,118 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    box-shadow: 0px 5px 10px #888888;
+    border-bottom: 1px solid #f2f2f2;
+  }
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    color: white;
+  } 
+
+  .marque1{
+    margin-top: 20px;
+    background-color: #9EA9BF;
+    box-shadow: 0px 0px 10px 4px #888888;
+    padding: 10px 0px;
+  }
+
+  .maincont1{
+    text-align: center;
+  }
+
+  .maincont1 h3{
+    margin: 0% 27% 3%;
+    
+  }
+
+  .maincont1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;    ;
+  }
+
+  .searchbar2{
+    margin: 0% 15% 7%;
+
+  }
+
+  .searchbar2 input{
+    padding: 15px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 75%;
+    background: #f1f1f1;
+    
+  }
+
+  .searchbar2 button{
+    float: left;
+    width: 20%;
+    padding: 15px;
+    background: #9EA9BF;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+
+  .content2{
+    background-color: #333;
+    margin: 3% 0% 3%;
+    box-shadow: 0px 0px 10px 4px #888888;
+    padding: 20px 20px 20px;
+    color: #ddd;
+  }
+
+  .content3{
+    margin: 5% 10% 20%;
+    color: #ffffff;
+  }
+
+  .content3 h2{
+    color: #333;
+  }
+
+  .content3 table{
+    border: 1px solid black;
+    background-color: #9EA9BF;
+    text-align: center;
+    border-radius: 5%;
+  }
+
+  .content3 td{
+    width: 50px;
+  }
+
+  .footofmid{
+    position: static;
+    bottom: 0;
+    background-color: #333;
+    width: 100%;
+    margin: 0% 0% 0%;
+    box-shadow: 0px 0px 10px 4px #888888;
+    padding: 20px 0px 20px;
+    color: #ddd;
+  }
